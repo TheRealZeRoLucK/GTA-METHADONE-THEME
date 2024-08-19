@@ -1,0 +1,110 @@
+[10:20:31.188] [ INFO  ] Manual Transmission v5.6.1 (built Jan 29 2023 20:01:50) (4211775)
+[10:20:31.188] [ INFO  ] Date: 2024 08 03, 10:20:31
+[10:20:31.188] [ INFO  ] SHV API Game version: 88 (88)
+[10:20:31.189] [ INFO  ] Running executable: D:\steam\steamapps\common\Grand Theft Auto V\GTA5.exe
+[10:20:31.189] [ INFO  ] File Version: 1.0.3274.0
+[10:20:31.189] [WARNING] Game newer than last supported version
+[10:20:31.189] [WARNING]     You might experience instabilities or crashes
+[10:20:31.190] [WARNING]     Using SHV API version [88] (88)
+[10:20:31.190] [ INFO  ] Data path: C:\Users\offic\AppData\Roaming\Stand\ASI Mods\ManualTransmission
+[10:20:31.190] [ INFO  ] Script registered
+[10:20:31.197] [ INFO  ] Script started
+[10:20:31.236] [ INFO  ] [Settings] Timers: No timers registered
+[10:20:31.257] [WARNING] [VehicleConfig] [settings_general] LaunchControlSlipMin is 1.0 (<= 1.0), correcting to 1.2 (LaunchControlSlipMax corrected to 1.4)
+[10:20:31.275] [ INFO  ] Settings read
+[10:20:31.275] [ INFO  ] Configs loaded: 0
+[10:20:31.703] [WARNING] Steering Input Offset: 0x0
+[10:20:31.703] [WARNING] Steering Angle Offset: 0x0
+[10:20:31.703] [WARNING] ThrottleP Offset: 0x0
+[10:20:31.703] [WARNING] BrakeP Offset: 0x0
+[10:20:32.113] [ ERROR ] [Patch] Test: [Gears: Shift Up] not found
+[10:20:32.174] [ ERROR ] [Patch] Test: [Gears: Shift Down] not found
+[10:20:32.248] [ ERROR ] [Patch] Test: [Gears: Clutch Rev lim] not found
+[10:20:32.313] [ ERROR ] [Patch] Test: [Gears: Throttle lift] not found
+[10:20:32.421] [ ERROR ] [Patch] Test: [Steer: Steering input] not found
+[10:20:32.452] [ ERROR ] Patchability test failed!
+[10:20:32.452] [ INFO  ] [Compat] Setting up TrainerV
+[10:20:32.452] [ INFO  ] [Compat] TrainerV.asi not found
+[10:20:32.452] [ INFO  ] [Compat] Setting up DashHook
+[10:20:32.453] [ INFO  ] [Compat] DashHook.dll not found
+[10:20:32.453] [ INFO  ] [Compat] Setting up HandlingReplacement
+[10:20:32.453] [ INFO  ] [Compat] HandlingReplacement.asi not found
+[10:20:32.453] [ INFO  ] [Compat] Setting up CustomTorqueMap
+[10:20:32.454] [ INFO  ] [Compat] CustomTorqueMap.asi not found
+[10:20:32.454] [ INFO  ] [Wheel] Initializing input devices
+[10:20:32.454] [ INFO  ] [Wheel] Setting up DirectInput interface
+[10:20:32.541] [ INFO  ] [Wheel] Found 0 device(s)
+[10:20:32.542] [ INFO  ] [Wheel] No devices detected
+[10:20:32.542] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[10:20:32.542] [ INFO  ] [Wheel] Steering wheel initialization finished
+[10:20:32.542] [ INFO  ] START: Initialization finished
+[10:20:32.542] [ INFO  ] [Telemetry] Starting UDP on 127.0.0.1:20777
+[10:20:41.277] [ INFO  ] Checking for updates
+[10:20:41.560] [ INFO  ] No update available, latest version: [v5.6.1]
+[10:22:08.327] [ ERROR ] [Patch] [Steer: Steering input] not found
+[10:22:08.328] [ ERROR ] [Patch] [Steer: Steering input] Patch failed
+[10:22:08.403] [ ERROR ] [Patch] [Gears: Clutch Rev lim] not found
+[10:22:08.403] [ ERROR ] [Patch] [Gears: Clutch Rev lim] Patch failed
+[10:22:08.463] [ ERROR ] [Patch] [Gears: Shift Down] not found
+[10:22:08.463] [ ERROR ] [Patch] [Gears: Shift Down] Patch failed
+[10:22:08.523] [ ERROR ] [Patch] [Gears: Shift Up] not found
+[10:22:08.523] [ ERROR ] [Patch] [Gears: Shift Up] Patch failed
+[10:22:08.586] [ ERROR ] [Patch] [Gears: Throttle lift] not found
+[10:22:08.586] [ ERROR ] [Patch] [Gears: Throttle lift] Patch failed
+[10:22:08.586] [ ERROR ] [Patch] [Gears] Patching failed
+[10:22:08.679] [ ERROR ] [Patch] [Steer: Steering input] not found
+[10:22:08.679] [ ERROR ] [Patch] [Steer: Steering input] Patch failed
+[10:22:08.738] [ ERROR ] [Patch] [Gears: Clutch Rev lim] not found
+[10:22:08.738] [ ERROR ] [Patch] [Gears: Clutch Rev lim] Patch failed
+[10:22:08.797] [ ERROR ] [Patch] [Gears: Shift Down] not found
+[10:22:08.797] [ ERROR ] [Patch] [Gears: Shift Down] Patch failed
+[10:22:08.857] [ ERROR ] [Patch] [Gears: Shift Up] not found
+[10:22:08.857] [ ERROR ] [Patch] [Gears: Shift Up] Patch failed
+[10:22:08.920] [ ERROR ] [Patch] [Gears: Throttle lift] not found
+[10:22:08.920] [ ERROR ] [Patch] [Gears: Throttle lift] Patch failed
+[10:22:08.920] [ ERROR ] [Patch] [Gears] Patching failed
+[10:22:09.008] [ ERROR ] [Patch] [Steer: Steering input] not found
+[10:22:09.008] [ ERROR ] [Patch] [Steer: Steering input] Patch failed
+[10:22:09.067] [ ERROR ] [Patch] [Gears: Clutch Rev lim] not found
+[10:22:09.067] [ ERROR ] [Patch] [Gears: Clutch Rev lim] Patch failed
+[10:22:09.127] [ ERROR ] [Patch] [Gears: Shift Down] not found
+[10:22:09.127] [ ERROR ] [Patch] [Gears: Shift Down] Patch failed
+[10:22:09.187] [ ERROR ] [Patch] [Gears: Shift Up] not found
+[10:22:09.187] [ ERROR ] [Patch] [Gears: Shift Up] Patch failed
+[10:22:09.250] [ ERROR ] [Patch] [Gears: Throttle lift] not found
+[10:22:09.250] [ ERROR ] [Patch] [Gears: Throttle lift] Patch failed
+[10:22:09.250] [ ERROR ] [Patch] [Gears] Patching failed
+[10:22:09.337] [ ERROR ] [Patch] [Steer: Steering input] not found
+[10:22:09.337] [ ERROR ] [Patch] [Steer: Steering input] Patch failed
+[10:22:09.397] [ ERROR ] [Patch] [Gears: Clutch Rev lim] not found
+[10:22:09.397] [ ERROR ] [Patch] [Gears: Clutch Rev lim] Patch failed
+[10:22:09.456] [ ERROR ] [Patch] [Gears: Shift Down] not found
+[10:22:09.456] [ ERROR ] [Patch] [Gears: Shift Down] Patch failed
+[10:22:09.516] [ ERROR ] [Patch] [Gears: Shift Up] not found
+[10:22:09.516] [ ERROR ] [Patch] [Gears: Shift Up] Patch failed
+[10:22:09.579] [ ERROR ] [Patch] [Gears: Throttle lift] not found
+[10:22:09.579] [ ERROR ] [Patch] [Gears: Throttle lift] Patch failed
+[10:22:09.579] [ ERROR ] [Patch] [Gears] Patching failed
+[10:22:09.668] [ ERROR ] [Patch] [Steer: Steering input] not found
+[10:22:09.668] [ ERROR ] [Patch] [Steer: Steering input] Patch failed
+[10:22:09.669] [ ERROR ] [Patch] [Steer: Steering input] Patch attempt limit exceeded
+[10:22:09.669] [ ERROR ] [Patch] [Steer: Steering input] Patching disabled
+[10:22:09.727] [ ERROR ] [Patch] [Gears: Clutch Rev lim] not found
+[10:22:09.728] [ ERROR ] [Patch] [Gears: Clutch Rev lim] Patch failed
+[10:22:09.728] [ ERROR ] [Patch] [Gears: Clutch Rev lim] Patch attempt limit exceeded
+[10:22:09.728] [ ERROR ] [Patch] [Gears: Clutch Rev lim] Patching disabled
+[10:22:09.788] [ ERROR ] [Patch] [Gears: Shift Down] not found
+[10:22:09.788] [ ERROR ] [Patch] [Gears: Shift Down] Patch failed
+[10:22:09.788] [ ERROR ] [Patch] [Gears: Shift Down] Patch attempt limit exceeded
+[10:22:09.788] [ ERROR ] [Patch] [Gears: Shift Down] Patching disabled
+[10:22:09.848] [ ERROR ] [Patch] [Gears: Shift Up] not found
+[10:22:09.848] [ ERROR ] [Patch] [Gears: Shift Up] Patch failed
+[10:22:09.848] [ ERROR ] [Patch] [Gears: Shift Up] Patch attempt limit exceeded
+[10:22:09.848] [ ERROR ] [Patch] [Gears: Shift Up] Patching disabled
+[10:22:09.910] [ ERROR ] [Patch] [Gears: Throttle lift] not found
+[10:22:09.911] [ ERROR ] [Patch] [Gears: Throttle lift] Patch failed
+[10:22:09.911] [ ERROR ] [Patch] [Gears: Throttle lift] Patch attempt limit exceeded
+[10:22:09.911] [ ERROR ] [Patch] [Gears: Throttle lift] Patching disabled
+[10:22:18.181] [ INFO  ] [Patch] Init shutdown
+[10:22:18.181] [ INFO  ] [Patch] Script shut down cleanly
+[10:22:18.181] [ ERROR ] [Compat] DashHook.dll FreeLibrary failed [126l]
